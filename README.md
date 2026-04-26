@@ -1,4 +1,4 @@
-Welcome to Chesser Resource — an independent educational platform built to help students, self-learners, and lifelong readers find quality study materials in one place.
+Welcome to Chesser Resource — an independent educational platform built to help students, self-learners, and lifelong readers find quality study materials in one place. https://chesserresources.com.au/
 
 What Chesser Resource Is
 Chesser Resource is a free online study resource site. We curate, organize, and share educational materials across a wide range of subjects so that learners — whether students preparing for standardized exams, university students working through coursework, or readers exploring classic literature — can find what they need without paywalls or clutter.
@@ -11,27 +11,45 @@ Chesser Resource is organized into clear subject categories so you can go straig
 Standardized Exam Prep
 We host preparation material for major academic and certification exams, including:
 
-AP exams — full coverage across AP Calculus AB, AP Calculus BC, AP Precalculus, AP Statistics, AP Chemistry, AP Physics 1, AP Physics C: Mechanics, AP Computer Science A, AP Microeconomics, AP Human Geography, AP World History: Modern, AP English Language, and AP English Literature.
+AP exams — full coverage across AP Calculus AB, AP Calculus BC, AP Precalculus, AP Statistics, AP Chemistry, AP Physics 1, AP Physics C: Mechanics, AP Computer Science A, AP Microeconomics, AP Human Geography, AP World History: Modern, AP English Language, and AP English Literature. 
 SAT preparation, including dedicated material for SAT Reading and Writing.
 TOEFL iBT practice and study guides for international English proficiency.
 DMV practice tests for learners preparing for their driving theory exam.
+
+https://chesserresources.com.au/category/exams/
+
+
+
 Mathematics
 A full progression from foundational arithmetic through advanced topics under our math category, including pre-algebra, algebra, geometry, trigonometry, calculus, and probability.
+https://chesserresources.com.au/category/math/
+
+
 
 Biology and Life Sciences
 The biology section covers the full range of life sciences with dedicated areas for anatomy (including the cardiovascular system and digestive system), cell biology, molecular biology, genetics, biochemistry, biotechnology, microbiology, virology, physiology, pathology, ecology, marine biology, and animal science.
+https://chesserresources.com.au/category/biology/
+
 
 Literature
 The literature section brings together novels and short stories, plays, and detailed study guides to support both casual reading and academic analysis.
+https://chesserresources.com.au/category/literature/
+
 
 Arts and Humanities
 The arts and humanities category explores English (including linguistics and English literature), history (with dedicated coverage of ancient history, history of the Americas, and history of Africa), philosophy and theology, music including music composition, theater, dance, and film and TV.
+https://chesserresources.com.au/category/arts-and-humanities/
+
 
 Social Sciences
 The social science section provides resources on economics (including finance and accounting), political science, psychology, and sociology.
+https://chesserresources.com.au/category/social-science/
+
 
 Other Resources
 Beyond the core academic subjects, we also cover practical and lifestyle topics under other resources, including driving test preparation (with a dedicated learner’s permit test section), computer skills, hobbies, and sports.
+https://chesserresources.com.au/category/others/
+
 
 Who This Site Is For
 Chesser Resource is built for anyone who learns better with organized, accessible material:
